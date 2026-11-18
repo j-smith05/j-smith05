@@ -1,4 +1,4 @@
-# Hi, I'm Jacob Smith 👋
+# Hi, I'm Jacob Smith
 
 Computer Science student at **Boise State University** (Cybersecurity Emphasis, expected Dec. 2027) and **Cybersecurity Resiliency Intern at St. Luke's Health System**. I'm looking for **Summer 2027 internships** in cybersecurity and information security.
 
@@ -12,7 +12,7 @@ Most of my coursework lives in private repos, so you'll find write-ups for those
 
 ### Tools I use
 
-Java · Python · C · Go · SQL · JavaScript · Linux · Git · AWS EC2 · ServiceNow · Proofpoint TAP
+Java · C · JavaScript · Linux · Git · ServiceNow · Proofpoint TAP
 
 ### Find me
 
